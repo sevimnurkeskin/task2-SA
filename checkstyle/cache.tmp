@@ -1,8 +1,0 @@
-#Fri May 15 13:33:14 TRT 2026
-configuration*?=FB0F74641F6BAEBA685DFE75C792AA7F2E2A57E7
-module-resource*?\:.\\config\\suppressions-xpath.xml=72738F1DAB7E079488E1FDD53E9EFCE58EA70B36
-module-resource*?\:.\\config\\suppressions.xml=335C039D58825E5B10C788974C77EA2AC851C369
-module-resource*?\:file\:/C\:/Users/sevim/OneDrive/Masa%C3%BCst%C3%BC/checkstyle_pipeline/checkstyle/./config/import-control-test.xml=7F236B0A88A591239027ABC0E08E5B89206B86D
-module-resource*?\:file\:/C\:/Users/sevim/OneDrive/Masa%C3%BCst%C3%BC/checkstyle_pipeline/checkstyle/./config/import-control.xml=8E6CB01FEEF84CC5473C90A05AC3944EB04476BF
-module-resource*?\:file\:/C\:/Users/sevim/OneDrive/Masa%C3%BCst%C3%BC/checkstyle_pipeline/checkstyle/./config/java-regexp.header=CDA61F8B9E9C854720691B0759CD82A375F33DB7
-module-resource*?\:file\:/C\:/Users/sevim/OneDrive/Masa%C3%BCst%C3%BC/checkstyle_pipeline/checkstyle/./config/java.header=BB476473238F366D27331EE024BC9DD0ADA71EEE

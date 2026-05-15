@@ -1,6 +1,0 @@
-/*
-JavadocPackage
-
-*/
-
-test, no violation
